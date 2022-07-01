@@ -1,0 +1,34 @@
+.mine{
+    background-color: lightgray;
+    opacity: 0.7;
+    width: 100%;
+    height: 5cm;
+    margin: auto;
+}
+h1{
+    padding: 2cm
+
+}
+table{
+    background-color: whitesmoke ;
+}
+input{
+    width: 10cm;
+}
+.fm{
+  
+    /* width: 10cm; */
+}
+button{
+    width: 3cm;
+}
+.update{
+    width: 10cm;
+    background-color: lightblue;
+}
+.xx{
+    background-color: lightgray;
+    height: 1cm;
+    opacity: 0.8;
+    
+}

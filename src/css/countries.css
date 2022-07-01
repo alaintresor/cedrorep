@@ -1,0 +1,54 @@
+.container1{
+    background-color: rgb(168, 245, 158);
+    height: 3cm;
+    width: 100%;
+    margin-top: -1cm;
+    position: fixed;
+  }
+  .container1>h1{
+    padding: 1cm;
+    
+  }
+  .x{
+    /* margin-top: 3cm; */
+    background-color: rgb(216, 245, 245);
+  }
+  .mytable{
+    width: 80%;
+    margin-left: 3cm;
+  }
+  .y{
+    /* margin-top: 3cm; */
+    background-color: whitesmoke;
+  }
+  .title{
+    height: 3cm;
+    width: 100%;
+    background-color: aqua;padding: 1cm;
+  }
+  .title>h1{
+    
+    margin-top: 1cm;
+    /* padding: 1cm; */
+  
+  }
+ .all{
+    /* background-color: aqua; */
+    /* margin-left: -30cm; */
+ }
+ .wrapper{
+    margin-left: -10cm;
+ }
+ input{
+  height: 1cm;
+  border: 1px solid rgb(187, 184, 184);
+  border-radius: 5px;
+ }
+ .v{
+  margin-left: 1cm;
+  border-radius: 5px;
+  width: 2.2cm;
+  height: 1cm;
+  border: 1px solid rgb(187, 184, 184);
+  background-color: rgb(178, 250, 178);
+ }

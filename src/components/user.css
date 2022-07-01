@@ -1,0 +1,48 @@
+.list {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    margin: 5px;
+    margin-left: 30%;
+  }
+  button{
+    background-color: rgb(161, 233, 164);
+ height: 1cm;
+ width: 2cm;
+ border: 0px;
+ margin-left: -1cm;
+ border-radius: 10px;
+ 
+  }
+  .label{
+    color: black;
+  }
+  .title{
+    color: black;
+    background-color: white;
+  }
+  input{
+    width: 6.2cm;
+    margin-left: 1cm;
+  }
+  i{
+    color: white;
+  }
+    i{
+    color: white;
+  }
+  b{
+    background-color: lightgray;
+    color:lightgray;
+  }
+  form{
+    background-color: lightgray;
+    opacity: 0.8;
+    box-shadow: 2px 1px 1px lightblue;
+    /* height: 6cm; */
+  }
+  .add{
+    color: black;
+    padding: 1cm;
+  }
+ 
